@@ -15,16 +15,16 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 
 # 课程内容
 
-- 第 01 课：入门篇 - 初识 CTK
-- 第 02 课：入门篇 - 漫谈 CTK
-- 第 03 课：入门篇 - CTK Plugin Framework 基本原理
-- 第 04 课：进阶篇 - 编译 CTK
-- 第 05 课：进阶篇 - 使用 CTKWidgets
-- 第 06 课：进阶篇 - Hello，CTK！
-- 第 07 篇：进阶篇 - 在程序中嵌入 CTK Plugin Framework
-- 第 08 课：进阶篇 - CTK 插件元数据
-- 第 09 课：进阶篇 - CTK 插件和服务
-- 第 10 课：进阶篇 - CTK 插件之间的依赖
+- [第01课：入门篇——初识 CTK](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad03d99f8164454a34a12b1)
+- [第02课：入门篇——漫谈 CTK](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad041adf8164454a34a13c0)
+- [第03课：入门篇——CTK Plugin Framework 基本原理](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04402f8164454a34a148a)
+- [第04课：进阶篇——编译 CTK](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04605f8164454a34a152e)
+- [第05课：进阶篇——使用 CTKWidgets](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad046dff8164454a34a1582)
+- [第06课：进阶篇——Hello，CTK！](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad047cbf8164454a34a15cb)
+- [第07篇：进阶篇——在程序中嵌入 CTK Plugin Framework](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04887f8164454a34a1624)
+- [第08课：进阶篇——CTK 插件元数据](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad050eff8164454a34a194f)
+- [第09课：进阶篇——CTK 插件和服务](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05118f8164454a34a1965)
+- [第10课：进阶篇——CTK 插件之间的依赖](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05132f8164454a34a196c)
 - 第 11 篇：高级篇 - CTK 事件管理机制（一）
 - 第 12 篇：高级篇 - CTK 事件管理机制（二）
 - 第 13 篇：高级篇 - CTK 日志管理
@@ -35,24 +35,15 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 
 # 课程地址
 
-本达人课地址，猛戳： [OSGI for C++ - 通往架构师之路](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b "OSGI for C++ - 通往架构师之路")
+本达人课地址，猛戳：[OSGI for C++ - 通往架构师之路](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b)
 
 # 对应关系
 
-- UseCTKWidgets
-对应文章：[《第05课：进阶篇——使用 CTKWidgets》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad046dff8164454a34a1582)
-
-- HelloCTK
-对应文章：[《第06课：进阶篇——Hello，CTK！》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad047cbf8164454a34a15cb)
-
-- EmbedCTK
-对应文章：[《第07篇：进阶篇——在程序中嵌入 CTK Plugin Framework》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04887f8164454a34a1624)
-
-- GetMetaData
-对应文章：[《第08课：进阶篇——CTK 插件元数据》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad050eff8164454a34a194f)
-
-- PluginAndService
-对应文章：[《第09课：进阶篇——CTK 插件和服务》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05118f8164454a34a1965)
-
-- RequirePlugin
-对应文章：[《第10课：进阶篇——CTK 插件之间的依赖》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05132f8164454a34a196c)
+文章地址 | 源码目录
+:--- | :---
+[《第05课：进阶篇——使用 CTKWidgets》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad046dff8164454a34a1582) | UseCTKWidgets
+[《第06课：进阶篇——Hello，CTK！》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad047cbf8164454a34a15cb) | HelloCTK
+[《第07篇：进阶篇——在程序中嵌入 CTK Plugin Framework》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04887f8164454a34a1624) | EmbedCTK
+[《第08课：进阶篇——CTK 插件元数据》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad050eff8164454a34a194f) | GetMetaData
+[《第09课：进阶篇——CTK 插件和服务》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05118f8164454a34a1965) | PluginAndService
+[《第10课：进阶篇——CTK 插件之间的依赖》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05132f8164454a34a196c) | RequirePlugin
