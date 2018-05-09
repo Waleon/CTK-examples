@@ -1,0 +1,8 @@
+﻿Plugin-SymbolicName: HelloCTK
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/Waleon
+Plugin-Description: A plugin for say hello
+Plugin-Name: HelloCTK
+Plugin-Vendor: Waleon
+Plugin-Version: 1.0.0
