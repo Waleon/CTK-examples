@@ -30,7 +30,7 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 [《第 09 课：进阶篇 - CTK 插件和服务》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05118f8164454a34a1965) | PluginAndService
 [《第 10 课：进阶篇 - CTK 插件之间的依赖》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05132f8164454a34a196c) | RequirePlugin
 [《第 11 篇：高级篇 - CTK 事件管理机制（上）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0521bf8164454a34a19c4) | ---
-《第 12 篇：高级篇 - CTK 事件管理机制（中）》 | EventAdmin/SendEvent
+[《第 12 篇：高级篇 - CTK 事件管理机制（中）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05231f8164454a34a19c9) | EventAdmin/SendEvent
 《第 13 篇：高级篇 - CTK 事件管理机制（下）》 | EventAdmin/SignalSlot
 《第 14 篇：高级篇 - CTK 日志管理》 | ---
 《第 15 篇：高级篇 - CTK 服务追踪》 | ---
