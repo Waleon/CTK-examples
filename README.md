@@ -12,8 +12,8 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 
 - 第一部分（第 1-3 课）：入门篇，初步了解，包括框架选择标准、OSGI 和 CTK 之间的关系、CTK 的优势解析及基础初探。
 - 第二部分（第 4-10 课）：进阶篇，开始使用，包括开发环境的搭建，CTK 的编译、插件的创建、以及如何在程序中嵌入插件框架等功能。
-- 第三部分（第 11-16 课）：高级篇，掌握核心，CTK 事件管理机制、日志管理、服务追踪、事件与监听等功能。
-- 第四部分（第 17 课）：总结篇 ，FAQ 常见问题，针对 CTK 中的常见问题进行快速分析，并给出最合理的解决方案。
+- 第三部分（第 11-17 课）：高级篇，掌握核心，CTK 事件管理机制、日志管理、服务追踪、事件与监听等功能。
+- 第四部分（第 18 课）：总结篇 ，FAQ 常见问题，针对 CTK 中的常见问题进行快速分析，并给出最合理的解决方案。
 
 以下是各个部分的具体内容，以及示例源码：
 
@@ -27,8 +27,8 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 [《第 06 课：进阶篇 - Hello，CTK！》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad047cbf8164454a34a15cb) | HelloCTK
 [《第 07 篇：进阶篇 - 在程序中嵌入 CTK Plugin Framework》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04887f8164454a34a1624) | EmbedCTK
 [《第 08 课：进阶篇 - CTK 插件元数据》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad050eff8164454a34a194f) | GetMetaData
-[《第09课：进阶篇 - CTK 插件和服务》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05118f8164454a34a1965) | PluginAndService
-[《第10课：进阶篇 - CTK 插件之间的依赖》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05132f8164454a34a196c) | RequirePlugin
+[《第 09 课：进阶篇 - CTK 插件和服务》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05118f8164454a34a1965) | PluginAndService
+[《第 10 课：进阶篇 - CTK 插件之间的依赖》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05132f8164454a34a196c) | RequirePlugin
 [《第 11 篇：高级篇 - CTK 事件管理机制（上）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0521bf8164454a34a19c4) | ---
 《第 12 篇：高级篇 - CTK 事件管理机制（中）》 | EventAdmin/SendEvent
 《第 13 篇：高级篇 - CTK 事件管理机制（下）》 | EventAdmin/SignalSlot
