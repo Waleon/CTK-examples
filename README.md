@@ -35,7 +35,7 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 [《第 14 篇：高级篇 - CTK 服务工厂》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0524af8164454a34a19cf) | ServiceFactory
 [《第 15 篇：高级篇 - CTK 事件与监听》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05289f8164454a34a19f5) | EventListener
 [《第 16 课：高级篇 - CTK 服务追踪》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad06843f8164454a34a22dd) | ServiceTracker
-《第 17 课：高级篇 - 访问 CTK 服务的最佳方式》 | ---
+[《第 17 课：高级篇 - 访问 CTK 服务的最佳方式》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0685bf8164454a34a22e3) | ---
 《第 18 篇：总结 FAQ》 | ---
 
 # 适宜人群
