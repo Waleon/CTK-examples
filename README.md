@@ -4,6 +4,8 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 
 值得庆幸的是，在 C++ 中也有类似的框架 - CTK Plugin Framework。它借鉴了 OSGI 的思想，并实现了几乎完整的 OSGI 框架 API！
 
+![image](https://raw.githubusercontent.com/Waleon/CTK/master/CTK.png)
+
 在通往架构师的道路上，不仅需要了解面向组件（或服务）的设计和实现，更应当了解其背后的原理。本达人课，我们将主要围绕 CTK，探索 C++ 中的模块化技术。希望通过分享的知识，大家能够了解 OSGI 内部的工作机制，并能够基于 CTK 快速搭建 C++ 组件化框架。
 
 # 课程内容
@@ -40,10 +42,12 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 
 # 适宜人群
 
-- C++ 中/高级开发工程师、架构师
+- C++/Qt 中高级开发工程师、架构师
 - 专注于模块化协作的开发者
 - 希望能快速掌握 CTK 的开发者
 
 # 课程地址
 
-本达人课地址，猛戳：[OSGI for C++ - 通往架构师之路](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b)
+各位小伙伴们，欢迎猛戳：
+
+- 达人课地址：[OSGI for C++ - 通往架构师之路](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b)
