@@ -27,18 +27,18 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 [《第 04 课：进阶篇 - 编译 CTK》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04605f8164454a34a152e) | ---
 [《第 05 课：进阶篇 - 使用 CTKWidgets》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad046dff8164454a34a1582) | UseCTKWidgets
 [《第 06 课：进阶篇 - Hello，CTK！》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad047cbf8164454a34a15cb) | HelloCTK
-[《第 07 篇：进阶篇 - 在程序中嵌入 CTK Plugin Framework》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04887f8164454a34a1624) | EmbedCTK
+[《第 07 课：进阶篇 - 在程序中嵌入 CTK Plugin Framework》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad04887f8164454a34a1624) | EmbedCTK
 [《第 08 课：进阶篇 - CTK 插件元数据》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad050eff8164454a34a194f) | GetMetaData
 [《第 09 课：进阶篇 - CTK 插件和服务》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05118f8164454a34a1965) | PluginAndService
 [《第 10 课：进阶篇 - CTK 插件之间的依赖》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05132f8164454a34a196c) | RequirePlugin
-[《第 11 篇：高级篇 - CTK 事件管理机制（上）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0521bf8164454a34a19c4) | ---
-[《第 12 篇：高级篇 - CTK 事件管理机制（中）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05231f8164454a34a19c9) | EventAdmin/SendEvent
-[《第 13 篇：高级篇 - CTK 事件管理机制（下）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5af3e5fa38c1ac1d8df9bfef) | EventAdmin/SignalSlot
-[《第 14 篇：高级篇 - CTK 服务工厂》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0524af8164454a34a19cf) | ServiceFactory
-[《第 15 篇：高级篇 - CTK 事件与监听》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05289f8164454a34a19f5) | EventListener
+[《第 11 课：高级篇 - CTK 事件管理机制（上）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0521bf8164454a34a19c4) | ---
+[《第 12 课：高级篇 - CTK 事件管理机制（中）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05231f8164454a34a19c9) | EventAdmin/SendEvent
+[《第 13 课：高级篇 - CTK 事件管理机制（下）》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5af3e5fa38c1ac1d8df9bfef) | EventAdmin/SignalSlot
+[《第 14 课：高级篇 - CTK 服务工厂》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0524af8164454a34a19cf) | ServiceFactory
+[《第 15 课：高级篇 - CTK 事件与监听》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad05289f8164454a34a19f5) | EventListener
 [《第 16 课：高级篇 - CTK 服务追踪》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad06843f8164454a34a22dd) | ServiceTracker
 [《第 17 课：高级篇 - 访问 CTK 服务的最佳方式》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad0685bf8164454a34a22e3) | ---
-[《第 18 篇：总结 FAQ》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad06871f8164454a34a22ee) | ---
+[《第 18 课：总结 FAQ》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad06871f8164454a34a22ee) | ---
 
 # 适宜人群
 
