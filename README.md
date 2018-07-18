@@ -19,7 +19,7 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 
 以下是各个部分的具体内容，以及示例源码：
 
-课程地址 | 课程源码
+课程地址 | 示例源码
 :--- | :---
 [《第 01 课：入门篇 - 初识 CTK》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad03d99f8164454a34a12b1) | ---
 [《第 02 课：入门篇 - 漫谈 CTK》](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b/topic/5ad041adf8164454a34a13c0) | ---
