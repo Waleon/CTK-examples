@@ -51,3 +51,13 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 各位小伙伴们，欢迎猛戳：
 
 - 课程地址：[OSGI for C++ - 通往架构师之路](http://gitbook.cn/gitchat/column/5ad02029f8164454a34a089b)
+
+# 更多精彩
+
+- 个人博客：[一去、二三里](https://waleon.blog.csdn.net/ "一去、二三里")
+- 微信号：iwaleon
+- 微信公众号：高效程序员
+
+![微信公众号](https://raw.githubusercontent.com/Waleon/DesignPatterns/master/assets/qrcode.jpg)
+
+更多干货，请扫码关注微信公众号，不要太惊喜哦~
