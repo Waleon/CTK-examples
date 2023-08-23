@@ -21,24 +21,24 @@ OSGI 技术是面向 Java 的动态模型系统。Java 圈子里有非常著名�
 
 文章地址 | 示例源码
 :--- | :---
-1. [初识 CTK](https://waleon.blog.csdn.net/article/details/78411399)  | ---
-2. [漫谈 CTK](https://waleon.blog.csdn.net/article/details/129093702)  | ---
-3. [CTK Plugin Framework 基本原理](https://waleon.blog.csdn.net/article/details/129093925)  | ---
-4. [编译 CTK](https://waleon.blog.csdn.net/article/details/78411600)  | ---
-5. [使用 CTKWidgets](https://waleon.blog.csdn.net/article/details/78411757)  | UseCTKWidgets
-6. [Hello，CTK！](https://waleon.blog.csdn.net/article/details/78411930)  | HelloCTK
-7. [在程序中嵌入 CTK Plugin Framework](https://waleon.blog.csdn.net/article/details/78414715)  | EmbedCTK
-8. [CTK 插件元数据](https://waleon.blog.csdn.net/article/details/129103894)  | GetMetaData
-9. [CTK 插件和服务](https://waleon.blog.csdn.net/article/details/129104241) | PluginAndService
-10. [CTK 插件之间的依赖](https://waleon.blog.csdn.net/article/details/129104422)  | RequirePlugin
-11. [CTK 事件管理机制（插件间通信）](https://waleon.blog.csdn.net/article/details/78455299)  | ---
-12. [CTK 事件管理机制（sendEvent/postEvent）](https://waleon.blog.csdn.net/article/details/129105031)  | EventAdmin/SendEvent
-13. [CTK 事件管理机制（signal/slot）](https://waleon.blog.csdn.net/article/details/78458574)  | EventAdmin/SignalSlot
-14. [CTK 服务工厂](https://waleon.blog.csdn.net/article/details/78479946)  | ServiceFactory
-15. [CTK 事件与监听](https://waleon.blog.csdn.net/article/details/78501940)  | EventListener
-16. [CTK 服务追踪](https://waleon.blog.csdn.net/article/details/78849626)  | ServiceTracker
-17. [访问 CTK 服务的最佳方式](https://waleon.blog.csdn.net/article/details/103612915) | ---
-18. [CTK 总结篇（FAQ）](https://waleon.blog.csdn.net/article/details/103613082)  | ---
+[1. 初识 CTK](https://waleon.blog.csdn.net/article/details/78411399)  | ---
+[2. 漫谈 CTK](https://waleon.blog.csdn.net/article/details/129093702)  | ---
+[3. CTK Plugin Framework 基本原理](https://waleon.blog.csdn.net/article/details/129093925)  | ---
+[4. 编译 CTK](https://waleon.blog.csdn.net/article/details/78411600)  | ---
+[5. 使用 CTKWidgets](https://waleon.blog.csdn.net/article/details/78411757)  | UseCTKWidgets
+[6. Hello，CTK！](https://waleon.blog.csdn.net/article/details/78411930)  | HelloCTK
+[7. 在程序中嵌入 CTK Plugin Framework](https://waleon.blog.csdn.net/article/details/78414715)  | EmbedCTK
+[8. CTK 插件元数据](https://waleon.blog.csdn.net/article/details/129103894)  | GetMetaData
+[9. CTK 插件和服务](https://waleon.blog.csdn.net/article/details/129104241) | PluginAndService
+[10. CTK 插件之间的依赖](https://waleon.blog.csdn.net/article/details/129104422)  | RequirePlugin
+[11. CTK 事件管理机制（插件间通信）](https://waleon.blog.csdn.net/article/details/78455299)  | ---
+[12. CTK 事件管理机制（sendEvent/postEvent）](https://waleon.blog.csdn.net/article/details/129105031)  | EventAdmin/SendEvent
+[13. CTK 事件管理机制（signal/slot）](https://waleon.blog.csdn.net/article/details/78458574)  | EventAdmin/SignalSlot
+[14. CTK 服务工厂](https://waleon.blog.csdn.net/article/details/78479946)  | ServiceFactory
+[15. CTK 事件与监听](https://waleon.blog.csdn.net/article/details/78501940)  | EventListener
+[16. CTK 服务追踪](https://waleon.blog.csdn.net/article/details/78849626)  | ServiceTracker
+[17. 访问 CTK 服务的最佳方式](https://waleon.blog.csdn.net/article/details/103612915) | ---
+[18. CTK 总结篇（FAQ）](https://waleon.blog.csdn.net/article/details/103613082)  | ---
 
 # 适宜人群
 
